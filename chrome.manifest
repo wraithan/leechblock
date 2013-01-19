@@ -1,0 +1,6 @@
+content		leechblock					chrome/content/
+skin		leechblock	classic/1.0		chrome/skin/
+locale		leechblock	en-US			chrome/locale/en-US/
+
+overlay		chrome://browser/content/browser.xul			chrome://leechblock/content/browser.xul
+style		chrome://global/content/customizeToolbar.xul	chrome://leechblock/skin/toolbar.css
